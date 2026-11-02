@@ -1,8 +1,10 @@
-# CodingAI｜ChatGPT Plus / Pro 充值指南
+# ChatGPT充值 / ChatGPT代充指南｜ChatGPT Plus、Pro 国内自助充值
 
 > 给需要使用 ChatGPT Plus / Pro、但暂时没有合适海外支付方式的用户，一份尽量清楚、透明的充值说明。
 >
 > 服务入口：**[easycoding.cc](https://easycoding.cc/)**
+
+如果你正在搜索 **ChatGPT充值、ChatGPT代充、ChatGPT Plus充值、ChatGPT Pro充值** 或 **国内 ChatGPT 充值**，可以先从这份指南了解不同方式的区别，再根据自己的支付条件和账号情况选择合适的方案。
 
 ## 先说背景：为什么很多人需要第三方充值？
 
